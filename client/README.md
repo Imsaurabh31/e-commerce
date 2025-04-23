@@ -1,4 +1,5 @@
 Deployed Link = https://e-commerce-eight-pi-40.vercel.app/
+Backend Hoisted Link = https://e-commerce-t7z3.vercel.app/
 
 # React + Vite
 
